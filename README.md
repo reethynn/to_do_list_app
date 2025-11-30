@@ -1,4 +1,5 @@
 # to_do_list_app
+<<<<<<< HEAD
 
 A new Flutter project.
 
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+aplikasi to do list yang sederhana
+>>>>>>> b7d9ebc436225f5a2cb450d0c46f350cf9d0ec1a
